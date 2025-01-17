@@ -1,3 +1,7 @@
 export default function Home() {
-	return <>Hello</>;
+	return (
+		<main>
+			<h1>SAP</h1>
+		</main>
+	);
 }
